@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PublicTransport</string>
+    <string name="label_email">Email</string>
+</resources>

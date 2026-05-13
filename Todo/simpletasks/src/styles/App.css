@@ -1,0 +1,90 @@
+/* Fő oldal középre igazítása */
+.app-container {
+  max-width: 800px;
+  width: 100%;
+  margin: 40px auto;
+  background: white;
+  padding: 35px 35px;
+  border-radius: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Felső sáv (filter + rendezés + törlés) */
+.top-bar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 20px 0;
+}
+
+/* Beljebb húzás a bal oldalon */
+.top-bar,
+.add-task-form {
+  padding-left: 40px; 
+}
+
+/* Filter konténer */
+.filter-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+/* Filter gombok */
+.filter-button {
+  padding: 10px 18px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background: #f4f4f4;
+  cursor: pointer;
+  height: 42px;
+}
+
+/* Filter gomb hover effekt */
+.filter-button.active {
+  background: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+
+/* Rendezés gomb */
+.sort-btn {
+  padding: 10px 18px;
+  border-radius: 8px;
+  border: none;
+  background: #e7e7e7;
+  cursor: pointer;
+  transition: 0.2s;
+  height: 42px;
+}
+
+/* Rendezés gomb hover és aktív állapot */
+.sort-btn:hover {
+  background: #dcdcdc;
+}
+
+/* Aktív rendezés gomb */
+.sort-btn.active {
+  background: #007bff;
+  color: white;
+}
+
+/* Összes törlése gomb */
+.clear-all-button {
+  background: #ff3333;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+  height: 42px;
+  white-space: nowrap;
+}
+
+/* Összes törlése gomb hover effekt */
+.clear-all-button:hover {
+  background: #cc0000;
+}

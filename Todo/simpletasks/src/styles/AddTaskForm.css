@@ -1,0 +1,47 @@
+/* FŐ KONTÉNER a feladat hozzáadó űrlaphoz */
+.add-task-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+  align-items: center; /* minden elem függőlegesen egyvonalban */
+}
+
+/* AZONOS ALAPSTÍLUS minden bevitelhez */
+.add-task-input,
+.importance-select,
+.add-task-button {
+  height: 48px;               /* teljesen azonos magasság */
+  padding: 0 14px;            /* egységes belső margó */
+  font-size: 18px;            /* egységes betűméret */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;     /* fontos: padding nem növeli a magasságot */
+}
+
+/* SZÖVEGMEZŐ — kitölti a sort */
+.add-task-input {
+  flex: 1;
+}
+
+/* SELECT — fix szélesség */
+.importance-select {
+  width: 150px;
+  cursor: pointer;
+}
+
+/* GOMB — fix szélesség + színezés */
+.add-task-button {
+  width: 140px;
+  background: #e0e0e0;   /* szép világosszürke */
+  color: #333;           /* sötétszürke szöveg */
+  border: 1px solid #ccc;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+/* GOMB HOVER EFFEKT */
+.add-task-button:hover {
+  background: #c8c8c8;   /* kicsit sötétebb szürke hoverre */
+}
+
