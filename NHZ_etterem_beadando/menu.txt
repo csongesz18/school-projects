@@ -1,0 +1,70 @@
+	MENU
+
+-LEVESEK-
+
+1.  Husleves cernametelttel 400.-  HUF
+2.  Majgombocleves	    500.-  HUF
+3.  Brokkoli kremleves	    500.-  HUF
+4.  Hideg gyumolcsleves     450.-  HUF
+5.  Bableves		    650.-  HUF
+
+-MAGYAROS KESZETELEK-
+
+6.  Babgulyas		    900.-  HUF
+7.  Marhaporkolt	    1500.- HUF
+8.  Pacalporkolt	    1200.- HUF
+9.  Borjupaprikas	    1600.- HUF
+10. Csulokporkolt	    1200.- HUF
+
+-FRISSENSULTEK-
+
+11. Rantott szelet	    1200.- HUF
+12. Ciganypecsenye	    1500.- HUF
+13. Brassoi apropecsenye    1600.- HUF
+14. Csulok   		    1800.- HUF
+15. Rablohus		    1600.- HUF
+16. Kisbojtar kedvence	    1600.- HUF
+17. Belga gombasszelet	    1600.- HUF
+18. Milanoi borda	    1600.- HUF
+19. Banfi borda 	    1600.- HUF
+20. Boseg tal		    1800.- HUF
+
+-SALATAK-
+
+21. Kertesz 		    800.-  HUF
+22. Tzatziki 		    600.-  HUF
+23. Kaliforniai 	    900.-  HUF
+24. Mexikoi 		    900.-  HUF
+25. Magyaros 		    800.-  HUF
+
+-KORETEK-
+
+26. Hasabburgonya 	    400.-  HUF
+27. Rizs 		    400.-  HUF
+28. Galuska		    350.-  HUF
+29. Sos burgonya	    350.-  HUF
+30. Krokett 	   	    450.-  HUF
+31. Burgonyapure            450.-  HUF
+32. Rizi bizi 	   	    400.-  HUF
+33. Steak burgonya 	    450.-  HUF
+34. Parolt zoldseg 	    450.-  HUF
+35. Petrezselymes burgonya  400.-  HUF
+
+-SAVANYUSAGOK-
+
+36. Csemegeuborka 	    400.-  HUF
+37. Almapaprika 	    400.-  HUF
+38. Vegyes vagott 	    400.-  HUF
+
+-TESZTAK-
+
+39. Bolognai spagetti 	    1100.- HUF
+40. Milanoi spagetti 	    1100.- HUF
+
+-DESSZERTEK-
+
+41. Kakaos palacsinta 	    400.-  HUF 
+42. Gundel palacsinta	    700.-  HUF
+43. Gesztenyepure 	    550.-  HUF
+44. Somloi Galuska 	    600.-  HUF
+45. Marcipanos Galuska 	    700.-  HUF

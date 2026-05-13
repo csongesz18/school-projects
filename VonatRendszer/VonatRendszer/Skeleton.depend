@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1746727518 source:c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\jegy.cpp
+	"jegy.h"
+	"vonat.h"
+	"String.h"
+
+1746730242 c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\jegy.h
+	<iostream>
+	"vonat.h"
+	"String.h"
+
+1746727517 c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\vonat.h
+	"String.h"
+
+1746727517 source:c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\jegy_tipusok.cpp
+	<iostream>
+	"jegy_tipusok.h"
+
+1746727517 c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\jegy_tipusok.h
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<limits>
+	<fstream>
+	<cstdio>
+	"jegy.h"
+	"String.h"
+
+1746727517 source:c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\keseskezelo.cpp
+	"vonat.h"
+	"kesesKezelo.h"
+	"String.h"
+
+1746727517 c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\keseskezelo.h
+	<iostream>
+	"vonat.h"
+	"String.h"
+
+1746727517 source:c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<limits>
+	<fstream>
+	<cstdio>
+	<exception>
+	"jegy.h"
+	"jegy_tipusok.h"
+	"menu.h"
+	"vonat.h"
+	"FileException.h"
+	"String.h"
+
+1746730242 c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\menu.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<limits>
+	<fstream>
+	<cstdio>
+	"vonat.h"
+	"jegy.h"
+	"String.h"
+
+1746728982 c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\fileexception.h
+	<exception>
+
+1746730482 source:c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\menu.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<limits>
+	<fstream>
+	<cstdio>
+	"jegy.h"
+	"jegy_tipusok.h"
+	"menu.h"
+	"vonat.h"
+	"kesesKezelo.h"
+	"FileException.h"
+	"String.h"
+
+1746727517 source:c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\string.cpp
+	"String.h"
+	<cstring>
+
+1746727517 source:c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\vonat.cpp
+	"vonat.h"
+	"kesesKezelo.h"
+
+1746727517 c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\string.h
+	<iostream>
+

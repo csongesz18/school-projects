@@ -1,0 +1,244 @@
+# depslib dependency file v1.0
+1746727518 source:c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\jegy.cpp
+	"jegy.h"
+	"vonat.h"
+	"String.h"
+
+1746730242 c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\jegy.h
+	<iostream>
+	"vonat.h"
+	"String.h"
+
+1746727517 c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\vonat.h
+	"String.h"
+
+1746727517 c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\string.h
+	<iostream>
+
+1746727517 source:c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\jegy_tipusok.cpp
+	<iostream>
+	"jegy_tipusok.h"
+
+1746727517 c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\jegy_tipusok.h
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<limits>
+	<fstream>
+	<cstdio>
+	"jegy.h"
+	"String.h"
+
+1746727517 source:c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\keseskezelo.cpp
+	"vonat.h"
+	"kesesKezelo.h"
+	"String.h"
+
+1746727517 c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\keseskezelo.h
+	<iostream>
+	"vonat.h"
+	"String.h"
+
+1746730624 source:c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<limits>
+	<fstream>
+	<cstdio>
+	<exception>
+	"jegy.h"
+	"jegy_tipusok.h"
+	"menu.h"
+	"vonat.h"
+	"FileException.h"
+	"String.h"
+
+1746730624 c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\menu.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<limits>
+	<fstream>
+	<cstdio>
+	"vonat.h"
+	"jegy.h"
+	"String.h"
+
+1746728982 c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\fileexception.h
+	<exception>
+
+1746730624 source:c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\menu.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<limits>
+	<fstream>
+	<cstdio>
+	"jegy.h"
+	"jegy_tipusok.h"
+	"menu.h"
+	"vonat.h"
+	"kesesKezelo.h"
+	"FileException.h"
+	"String.h"
+
+1746727517 source:c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\string.cpp
+	"String.h"
+	<cstring>
+
+1746727517 source:c:\users\asusrog\desktop\bme\prog2labor\skeleton\skeleton\vonat.cpp
+	"vonat.h"
+	"kesesKezelo.h"
+
+1746916070 source:c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\jegy.cpp
+	"jegy.h"
+	"vonat.h"
+	"String.h"
+	"memtrace.h"
+
+1746916070 c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\jegy.h
+	<iostream>
+	"vonat.h"
+	"String.h"
+	"memtrace.h"
+
+1746897163 c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\vonat.h
+	"String.h"
+	"memtrace.h"
+
+1746912477 c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\string.h
+	<iostream>
+	"memtrace.h"
+
+1746777089 source:c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\jegy_tipusok.cpp
+	<iostream>
+	"jegy_tipusok.h"
+	"memtrace.h"
+
+1746777089 c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\jegy_tipusok.h
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<limits>
+	<fstream>
+	<cstdio>
+	"jegy.h"
+	"String.h"
+	"memtrace.h"
+
+1746777088 source:c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\keseskezelo.cpp
+	"vonat.h"
+	"kesesKezelo.h"
+	"String.h"
+	"memtrace.h"
+
+1746777089 c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\keseskezelo.h
+	<iostream>
+	"vonat.h"
+	"String.h"
+	"memtrace.h"
+
+1747096870 source:c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<limits>
+	<fstream>
+	<cstdio>
+	<exception>
+	"jegy.h"
+	"jegy_tipusok.h"
+	"menu.h"
+	"vonat.h"
+	"kesesKezelo.h"
+	"FileException.h"
+	"String.h"
+	"gtest_lite.h"
+	"memtrace.h"
+
+1747099729 c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\menu.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<limits>
+	<fstream>
+	<cstdio>
+	"vonat.h"
+	"jegy.h"
+	"String.h"
+	"memtrace.h"
+
+1746777089 c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\fileexception.h
+	"memtrace.h"
+	<exception>
+
+1747163791 source:c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\menu.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<limits>
+	<fstream>
+	<cstdio>
+	"jegy.h"
+	"jegy_tipusok.h"
+	"menu.h"
+	"vonat.h"
+	"kesesKezelo.h"
+	"FileException.h"
+	"String.h"
+	"memtrace.h"
+
+1746912230 source:c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\string.cpp
+	"String.h"
+	"memtrace.h"
+	<cstring>
+
+1746910834 source:c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\vonat.cpp
+	"vonat.h"
+	"kesesKezelo.h"
+	"memtrace.h"
+
+1746875414 c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+
+1740608960 source:c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1746483316 c:\users\asusrog\desktop\bme\prog2labor\vonatrendszer\vonatrendszer\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+

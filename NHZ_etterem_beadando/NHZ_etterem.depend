@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1700736825 source:c:\users\asusrog\desktop\nhz_etterem_beadando\nhz_etterem\header.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	"header.h"
+
+1585066621 c:\users\asusrog\desktop\nhz_etterem_beadando\nhz_etterem\graphics.h
+	<math.h>
+
+1669490005 c:\users\asusrog\desktop\nhz_etterem_beadando\nhz_etterem\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1700819646 c:\users\asusrog\desktop\nhz_etterem_beadando\nhz_etterem\header.h
+
+1700736825 source:c:\users\asusrog\desktop\nhz_etterem_beadando\nhz_etterem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	"header.h"
+
+1700824882 source:c:\users\asusrog\desktop\nhz_etterem_beadando\nhz_etterem másolata (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	"header.h"
+
+1669490005 c:\users\asusrog\desktop\nhz_etterem_beadando\nhz_etterem másolata (2)\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1700824867 c:\users\asusrog\desktop\nhz_etterem_beadando\nhz_etterem másolata (2)\header.h
+
+1700824867 source:c:\users\asusrog\desktop\nhz_etterem_beadando\nhz_etterem másolata (2)\header.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	"header.h"
+
+1700828115 source:c:\users\asusrog\desktop\nhz_etterem_beadando\nhz_etterem_beadando\header.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	"header.h"
+
+1669490005 c:\users\asusrog\desktop\nhz_etterem_beadando\nhz_etterem_beadando\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1700826407 c:\users\asusrog\desktop\nhz_etterem_beadando\nhz_etterem_beadando\header.h
+
+1700826419 source:c:\users\asusrog\desktop\nhz_etterem_beadando\nhz_etterem_beadando\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	"header.h"
+

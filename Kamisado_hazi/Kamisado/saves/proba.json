@@ -1,0 +1,14 @@
+{
+  "turn": "dark",
+  "requiredColor": "orange",
+  "board": [
+    ["b_brown", "b_purple", "b_blue", "b_yellow", "b_pink", "b_green", "empty", "b_orange"],
+    ["empty", "empty", "empty", "empty", "empty", "empty", "empty", "empty"],
+    ["empty", "empty", "empty", "empty", "empty", "empty", "empty", "empty"],
+    ["empty", "empty", "empty", "empty", "b_red", "w_blue", "empty", "empty"],
+    ["empty", "empty", "w_green", "empty", "empty", "empty", "empty", "empty"],
+    ["empty", "empty", "empty", "empty", "empty", "empty", "empty", "empty"],
+    ["empty", "w_orange", "empty", "empty", "empty", "empty", "empty", "empty"],
+    ["empty", "w_red", "empty", "w_pink", "w_yellow", "empty", "w_purple", "w_brown"]
+  ]
+}
