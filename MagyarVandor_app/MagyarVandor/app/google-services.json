@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059534477274",
+    "project_id": "magyarvandor",
+    "storage_bucket": "magyarvandor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059534477274:android:28e2b58263bb7b884c12e3",
+        "android_client_info": {
+          "package_name": "hu.magyarvandor.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBalWiMLA8Z-cCvvBfR5wW5CjSNpeKWHuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
